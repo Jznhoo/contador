@@ -1,0 +1,46 @@
+style{ margin: 0;
+    box-sizing: border-box;
+}
+body{
+min-height: 100vh;
+background-color: royalblue;
+color:rgb(0, 0, 0);
+display: grid;
+place-items: center;
+}
+
+section{
+    background: rgba(53, 71, 131, 0.2);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+p{
+font-size: 100px;
+}   
+p{
+width: 400px;
+
+}
+
+#button1{
+font-size: 30px;
+background: rgba(53, 71, 131, 0.2);
+border: 0;
+border-radius: 10px;
+letter-spacing: 1px;
+
+}
+#button2{
+font-size: 30px;
+background: rgba(53, 71, 131, 0.2);
+border: 0;
+border-radius: 10px;
+}
+#titulo{
+color: black;
+font-size: 50px;
+
+}
+
+
